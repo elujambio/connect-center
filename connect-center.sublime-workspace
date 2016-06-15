@@ -1,0 +1,1228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"drivers_li",
+				"drivers_license_file"
+			],
+			[
+				"cellpho",
+				"cellphone_model"
+			],
+			[
+				"addre",
+				"address_2"
+			],
+			[
+				"addres",
+				"address_1"
+			],
+			[
+				"circu",
+				"circulation_card_number"
+			],
+			[
+				"passwor",
+				"password_confirmation"
+			],
+			[
+				"drivers",
+				"drivers_license_expedition_place	(new.html.erb)"
+			],
+			[
+				"drivers_",
+				"drivers_license_expiration_date	(new.html.erb)"
+			],
+			[
+				"address",
+				"address_2	(new.html.erb)"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"sea-blue",
+				"sea-blue-hint"
+			],
+			[
+				"javas",
+				"javascript_include_tag	include javascript src	erb"
+			],
+			[
+				"photo",
+				"photo_two"
+			],
+			[
+				"mu",
+				"multi"
+			],
+			[
+				"conjuncti",
+				"conjunctiva_left	(ophtalmology_template.es.yml)"
+			],
+			[
+				"weight",
+				"weight_at_birth	(ophtalmology_template.es.yml)"
+			],
+			[
+				"ailments_dir",
+				"ailments_during_pregnancy_treatment	(ophtalmology_template.es.yml)"
+			],
+			[
+				"ophtalmolog",
+				"ophtalmology_templates	(schema.rb)"
+			],
+			[
+				"ophtal",
+				"ophtalmology_templates	(schema.rb)"
+			],
+			[
+				"java",
+				"javascript_include_tag	include javascript src	erb"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"family",
+				"family_diabetic_retinopathy	(en.yml)"
+			],
+			[
+				"fam",
+				"family_other	(en.yml)"
+			],
+			[
+				"famii",
+				"family_thyroid"
+			],
+			[
+				"insura",
+				"insurance_policy	(en.yml)"
+			],
+			[
+				"insurance",
+				"insurance_company	(en.yml)"
+			],
+			[
+				"authenti",
+				"authenticate_doctor_for_ophtalmology_template"
+			],
+			[
+				"redirect",
+				"redirect_to	(ophtalmology_templates_controller.rb)"
+			],
+			[
+				"opht",
+				"ophtalmology_template"
+			],
+			[
+				"redire",
+				"redirect_to	(ophtalmology_templates_controller.rb)"
+			],
+			[
+				"Active",
+				"ActiveRecord	(ophtalmology_templates_controller.rb)"
+			],
+			[
+				"no_right",
+				"no_right_description"
+			],
+			[
+				"no_left",
+				"no_left_description"
+			],
+			[
+				"vitreous",
+				"vitreous_right"
+			],
+			[
+				"vitro",
+				"vitreous_left"
+			],
+			[
+				"fundus",
+				"fundus_left"
+			],
+			[
+				"crysta",
+				"crystaline_right"
+			],
+			[
+				"goinosco",
+				"goinoscopy_right"
+			],
+			[
+				"goinos",
+				"goinoscopy_left"
+			],
+			[
+				"intraocular",
+				"intraocular_pressure_2"
+			],
+			[
+				"intraocu",
+				"intraocular_pressure_left"
+			],
+			[
+				"ac",
+				"ac_bottom_right_value_2"
+			],
+			[
+				"ac_",
+				"ac_bottom_left_value_1"
+			],
+			[
+				"antechamber",
+				"antechamber_right"
+			],
+			[
+				"antecha",
+				"antechamber_left"
+			],
+			[
+				"pinhole",
+				"pinhole_third_value"
+			],
+			[
+				"avcc",
+				"avcc_third_value"
+			],
+			[
+				"avsc",
+				"avsc_third_value"
+			],
+			[
+				"born_of_ter",
+				"born_of_term_description"
+			],
+			[
+				"ailments_during",
+				"ailments_during_pregnancy_treatment"
+			],
+			[
+				"ailments",
+				"ailments_during_pregnancy"
+			],
+			[
+				"eye_sur",
+				"eye_surgery_right"
+			],
+			[
+				"eye",
+				"eye_surgery_left"
+			],
+			[
+				"retinal_deata",
+				"retinal_deatachment_description"
+			],
+			[
+				"retinal_deatach",
+				"retinal_deatachment_treatment"
+			],
+			[
+				"retinal_deat",
+				"retinal_deatachment_right"
+			],
+			[
+				"eyelids",
+				"eyelids_right"
+			],
+			[
+				"ocular",
+				"ocular_movement_version_left"
+			],
+			[
+				"specular",
+				"specular_magnification_right"
+			],
+			[
+				"specular_ma",
+				"specular_magnification_left"
+			],
+			[
+				"cyclople",
+				"cycloplegic_right_value_3"
+			],
+			[
+				"cycloplegic",
+				"cycloplegic_right_value_2"
+			],
+			[
+				"cyclo",
+				"cycloplegic_right_value_1"
+			],
+			[
+				"cyclopleg",
+				"cycloplegic_left_value_2"
+			],
+			[
+				"cycloplegic_left",
+				"cycloplegic_left_value_1"
+			],
+			[
+				"autorefraction_",
+				"autorefraction_right_value_3"
+			],
+			[
+				"autorefraction_ri",
+				"autorefraction_right_value_2"
+			],
+			[
+				"autorefra",
+				"autorefraction_right_value_1"
+			],
+			[
+				"auto",
+				"autorefraction_left_value_3"
+			],
+			[
+				"autorefraction_left_value",
+				"autorefraction_left_value_2"
+			],
+			[
+				"autorefraction_left",
+				"autorefraction_left_value_1"
+			],
+			[
+				"subject",
+				"subjective_right_value_2"
+			],
+			[
+				"subjective_left",
+				"subjective_left_value_3"
+			],
+			[
+				"subjective",
+				"subjective_left_value_2"
+			],
+			[
+				"lensometer_right_value",
+				"lensometer_right_value_2"
+			],
+			[
+				"lensometer_right",
+				"lensometer_right_value_1"
+			],
+			[
+				"lensometer",
+				"lensometer_left_value_3"
+			],
+			[
+				"lensometer_left",
+				"lensometer_left_value_2"
+			],
+			[
+				"patient_glaucoma_",
+				"patient_glaucoma_since"
+			],
+			[
+				"patient_squint",
+				"patient_squint_treatment"
+			],
+			[
+				"patient_hyperopia",
+				"patient_hyperopia_description"
+			],
+			[
+				"patient_my",
+				"patient_myopia_description"
+			],
+			[
+				"patient_trans",
+				"patient_transfution_description"
+			],
+			[
+				"patient_alergies",
+				"patient_alergies_description"
+			],
+			[
+				"patient_ne",
+				"patient_nefropathy_description"
+			],
+			[
+				"patient_arterial",
+				"patient_arterial_hypertension_treatment"
+			],
+			[
+				"patient_diabete",
+				"patient_diabetes_mellitus_treatment"
+			],
+			[
+				"patient_diabe",
+				"patient_diabetes_mellitus_time"
+			],
+			[
+				"family_other",
+				"family_other_ailments_2"
+			],
+			[
+				"family_",
+				"family_other	(schema.rb)"
+			],
+			[
+				"famil",
+				"family_cardiopathy	(schema.rb)"
+			],
+			[
+				"ophta",
+				"ophtalmology_template_params"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"adopt",
+				"adopt_a_dog	(en.yml)"
+			],
+			[
+				"FONT-",
+				"font-family"
+			],
+			[
+				"full",
+				"fullPageWrapper"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"link_",
+				"link_to	create a link	erb"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"lecture",
+				"lecture"
+			],
+			[
+				"getLeme",
+				"getElementsByClassName	(show-challenge.js)"
+			],
+			[
+				"image",
+				"image_tag	(landing.html.erb)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"edn",
+				"end	only end	erb"
+			],
+			[
+				"label",
+				"label	(new.html.erb)"
+			],
+			[
+				"click",
+				"click_link"
+			],
+			[
+				"g",
+				"grey-50"
+			],
+			[
+				"background",
+				"backgroundHandler"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"lin",
+				"link_to	create a link	erb"
+			],
+			[
+				"IMAGE",
+				"image_tag	create a image	erb"
+			],
+			[
+				"elsif",
+				"elseif	only elseif	erb"
+			],
+			[
+				"li",
+				"link_to	create a link	erb"
+			],
+			[
+				"cha",
+				"challenge"
+			],
+			[
+				"smoothscro",
+				"smoothscroll	(smoothscroll.js)"
+			],
+			[
+				"add",
+				"addEventListener	(show-challenge.js)"
+			],
+			[
+				"clas",
+				"class=\"m	(show.html.erb)"
+			],
+			[
+				"imag",
+				"image_tag	(show.html.erb)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"else",
+				"else	only else	erb"
+			],
+			[
+				"bg-clubin",
+				"bg-clubin-khaki"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-a",
+				"font-family"
+			],
+			[
+				"bacg",
+				"background-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"menu",
+				"menuSpritesheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"math ",
+				"Set Syntax: TeX Math"
+			]
+		],
+		"width": 406.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"Package Manager",
+			"package manager",
+			"Package Control: Install Package Emmet",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/db/seeds.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/requests/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/tmp/cache/assets/sprockets/v3.0/RD/RDW77CXf6uT2ooIuZ-wgoTkgpeTWNvs0_RVoNnl-pPU.cache",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/admins/registrations/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/users/registrations/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/users/shared/_links.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/requests/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/drivers/sessions/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/drivers/shared/_links.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/admins/shared/_links.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/config/routes.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/shared-links.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/admins/sessions/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/log-in.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/users/sessions/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/main.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/db/schema.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/javascripts/application.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/layouts/application.html.erb",
+		"/C/xampp2/apps/wordpress/htdocs/wp-admin/link-parse-opml.php",
+		"/C/xampp2/apps/wordpress/htdocs/wp-login.php",
+		"/C/xampp2/phpMyAdmin/config.inc.php",
+		"/C/xampp2/apps/wordpress/htdocs/wp-activate.php",
+		"/C/xampp2/mysql/bin/my.ini",
+		"/C/xampp2/mysql/wsrep.ini",
+		"/C/xampp2/mysql/my-huge.ini",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/config/application.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/Gemfile",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/drivers/edit.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/base/fonts.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/base/font-styles.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/drivers/registrations/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/base/globals.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/panel.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/drivers/registrations/edit.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/drivers/show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/welcome/admin_panel.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/welcome/index.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/base/font-sizes.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/admins/index.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/controllers/admins_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/controllers/welcome_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/controllers/drivers_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/base/admin-panel.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/NUVA.ROCKS 2016/css/application.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/javascripts/tabs-manager.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/javascripts/click-handlers.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/config/locales/devise.es.yml",
+		"/C/Users/PabloEugenio/Documents/GitHub/medfiles/config/locales/es.yml",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/db/seeds.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/config/locales/es.yml",
+		"/C/Users/PabloEugenio/Documents/GitHub/medfiles/app/controllers/application_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/medfiles/config/locales/ophtalmology_template.es.yml",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/config/initializers/session_store.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/config/locales/sign_up.es.yml",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/config/locales/en.yml",
+		"/C/Users/PabloEugenio/Documents/Wynd/Planning and Technical data.txt",
+		"/C/Users/PabloEugenio/Documents/Wynd/Notes.txt",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/base/media-queries.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/base/normalize.scss",
+		"/C/Users/PabloEugenio/AppData/Local/Temp/7zOBC4D.tmp/stylesheet.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/stylesheets/application.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/assets/javascripts/velocity.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/taxilibre/app/views/admins/show.html.erb",
+		"/C/Users/PabloEugenio/AppData/Local/Temp/7zOCDC2.tmp/stylesheet.css",
+		"/C/Users/PabloEugenio/AppData/Local/Temp/7zOF3E1.tmp/stylesheet.css",
+		"/C/Users/PABLOE~1/AppData/Local/Temp/7zOD3A6.tmp/stylesheet.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/main.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/records/timer.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/records/location.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/forms/full-screen-forms.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/routines/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/records/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/config/locales/devise.en.yml",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/timer.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/click-handlers.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/resize-handlers.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/routines/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/layouts/application.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/users/show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/user_profile.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/navbar.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/routines/index.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/routines/show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/application.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/comments_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/base/globals.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/mygyms/create.js.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/routines.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/custom-attribute-styling/full-screen-forms.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/new-photo.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/forms/forms.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/mygyms_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/mygyms/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/base/normalize.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/base/font-sizes.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/custom-attribute-styling/add-gym.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/atoms.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/base/fonts.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/glitch/app/assets/javascripts/form/form.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/application.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/records_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/velocity.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/comments/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/_show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/comments/_comments.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/comments/create.js.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/comments/_new_comment.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/mygyms/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/custom-attribute-styling",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/photos_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/forms.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/edit.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/helpers/application_helper.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/helpers/communities_helper.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/photos.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/show.js.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/index.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/photos.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/comments.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/models/photo.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/render-photo.js.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/photos-display.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/devise.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/show.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 298.0,
+		"where_history":
+		[
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\gymapp\\app\\assets\\stylesheets",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\gymapp\\app\\assets\\stylesheets\\styles",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\adoptaunperro",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\assets\\stylesheets",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\partials\\navbar",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\users",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\partials\\navbar",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\partials\\navbar",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\Clubin\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\welcome",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\assets\\stylesheets",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\assets\\stylesheets\\flexie",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\users",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\users	",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\Clubin\\app\\controllers",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\Clubin\\app\\models",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views\\Admins",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views				",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views		",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views	",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views\\printers\\passwords",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br />",
+			"%>\n",
+			"<br />",
+			"319",
+			"<?",
+			"select",
+			"Sube ",
+			"date",
+			"select",
+			"<% f.labe",
+			"length",
+			"required: true",
+			"<label>",
+			"%>",
+			"<%",
+			":",
+			"<%=",
+			"h5",
+			"h2",
+			"h5",
+			"h6",
+			"label",
+			"<br />",
+			"<br /> ",
+			"<br />",
+			"  <div class=\"field\">\n",
+			"placeholder",
+			" N",
+			"automovil",
+			"fem",
+			"femenino",
+			"placeholder: true",
+			"hidden",
+			"parent",
+			" f.text_field",
+			"<br />",
+			"<%= f.label",
+			"margin",
+			"<br />",
+			"14",
+			"h4",
+			"url('Big",
+			"h2",
+			"<br />",
+			"padding",
+			" ==",
+			"element",
+			"24",
+			"p",
+			"TeXGyreHeros",
+			"url('T",
+			"url('",
+			"<br/>",
+			"p>",
+			"<p>",
+			"this",
+			"<br/>",
+			"gym",
+			"gym.gym.",
+			"compareAddress",
+			"notice.",
+			"fn();",
+			" !== \"undefined\"",
+			"\"",
+			"item",
+			"element",
+			"mygym",
+			"0",
+			"33",
+			"h2",
+			"</br>",
+			"h3",
+			"h6",
+			").find(\"",
+			"600px",
+			"this",
+			".image-containe",
+			"font-size",
+			"h5",
+			"li",
+			"h5",
+			"h2",
+			"gym",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"3",
+			"info__snippet",
+			"user",
+			"url('",
+			"white",
+			"file",
+			"File",
+			"input",
+			"4",
+			"</p>",
+			"<p>",
+			"profile__info",
+			"separator",
+			"closest",
+			"<br />",
+			"h3",
+			"<br />",
+			"start",
+			"18px",
+			"new-session",
+			"url('",
+			"*=\"",
+			"url('",
+			"!important",
+			"class=\"check",
+			"check_box",
+			"contact",
+			"avc",
+			"AVC",
+			"avc",
+			"text_field",
+			"check_box",
+			"text_field",
+			"diabetic",
+			"text_field",
+			"lactation",
+			"48",
+			"previous",
+			"boolean",
+			"squint",
+			"<div>\n      <label>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"url('/assets/",
+			"placeholder: true",
+			"true",
+			"placeholder:",
+			"",
+			": \"\"",
+			"",
+			"%>\n			<div class=\"expedient-underline\"></div>\n",
+			"%>\n<div class=\"expedient-underline\"></div>\n",
+			"%>\n<div class=\"expedient-underline\"></div>",
+			"\n<div class=\"expedient-underline\"></div>",
+			"class=\"double-field\"",
+			".field,\n.single-field",
+			"field",
+			"= @",
+			"",
+			"<%= t",
+			"",
+			":",
+			"",
+			", ",
+			"\n, ",
+			"\n",
+			"doctor",
+			"",
+			", placeholder: :name %>\n",
+			"",
+			",",
+			"",
+			"center",
+			"flexie col l-6 m-8 s-10 major-center minor-center\"",
+			"<%= image_path ",
+			"",
+			".",
+			"",
+			"45deg",
+			"6px",
+			"",
+			"bg-amber",
+			"card bg-amber",
+			"h5 class=\"grey-50\"",
+			"services-overlay flexie major-center minor-center",
+			"services-overlay major-center minor-center",
+			"services-overlay l-11 v-l-11",
+			"sliderCounter",
+			"background-size:40%;",
+			"grid-inner flexie major-center minor-center l-12 ",
+			"grid-inner major-center minor-center l-12 ",
+			"flexie col l-4 v-l-4 major-center minor-center text-center",
+			"light-blue-50",
+			"bg-luxuzz-form",
+			"bg-luxuzz-form	",
+			"bg-light-blue-800 light-blue-200",
+			"bg-luxuzz-grey",
+			"h5",
+			"<%= render \"partials/users/userProfilePicNoName\", c: current_user %>",
+			"<%= render \"partials/users/userProfilePic\", c: current_user %>",
+			"c",
+			"",
+			"l-12",
+			"w-48",
+			"major-between",
+			"w-48",
+			"<div class=\"flexie row l-12\">\n	<%= render \"users/shared/links\" %>\n</div>",
+			"",
+			"-400",
+			"grey",
+			"orange",
+			"red",
+			"light-green",
+			"cyan",
+			"orange",
+			"purple",
+			"light-blue",
+			"yellow",
+			"indigo",
+			"yellow",
+			"light-blue",
+			"purple",
+			"orange",
+			"cyan",
+			"amber",
+			"bg-lime-500",
+			"bg-lime",
+			"bg-grey-400",
+			"link_to(landing_path) do",
+			"flexie major-center minor-center button ",
+			"\"flexie major-center minor-center button ",
+			"\"flexie major-center minor-center ",
+			"",
+			"w-48",
+			"p-xxs",
+			"m-y-xxxs",
+			"",
+			"\"",
+			"class=\"flexie col w-48 s-12 p-t-xs\"",
+			"class=>\"bbg3 l-12\"",
+			"class=\"flexie col w-48 s-12 p-t-xs\"",
+			"",
+			"class=\"flexie col w-48 s-12 p-t-xs\"",
+			"translateY",
+			"save!",
+			"user1)\np.save!",
+			".save!",
+			")\nc",
+			"<div id=\"big-image-container\" class=\"big-image-container-off\">\n	<div class=\"flexie l-12 v-l-12 row major-center minor-center\">\n		<img src=\"\" id=\"big-image\">\n	</div>\n</div>\n<%= render 'challenges' %>\n",
+			"c",
+			"c.",
+			"Público	",
+			"h5",
+			"c",
+			"c.challenge",
+			"h5",
+			"h4",
+			"<img data-sr ",
+			"light",
+			"<p class=\"text-justify\">",
+			"",
+			"class=\"semi-bold hint\"",
+			"<div class=\"flexie col w-48 s-12 p-t-xs\">",
+			"",
+			"<div class=\"flexie col l-6 s-12 p-t-xs\">",
+			"<p class=\"regular primary\">",
+			"<p class=\"regular secondary\">",
+			"<p class=\"regular primary\">",
+			"<label class=\"hint\">",
+			"<label class=\"secondary\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "connect-center.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"session/new",
+				"app\\views\\users\\sessions\\new.html.erb"
+			],
+			[
+				"request",
+				"app\\views\\requests\\new.html.erb"
+			],
+			[
+				"seeds",
+				"db\\seeds.rb"
+			],
+			[
+				"drivers/shared",
+				"app\\views\\drivers\\shared\\_links.html.erb"
+			],
+			[
+				"admin/shared",
+				"app\\views\\admins\\shared\\_links.html.erb"
+			],
+			[
+				"request/new",
+				"app\\views\\requests\\new.html.erb"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"links",
+				"app\\views\\users\\shared\\_links.html.erb"
+			],
+			[
+				"shared-links",
+				"app\\assets\\stylesheets\\shared-links.scss"
+			],
+			[
+				"registrations/new",
+				"app\\views\\users\\registrations\\new.html.erb"
+			],
+			[
+				"signup",
+				"tmp\\cache\\assets\\sprockets\\v3.0\\RD\\RDW77CXf6uT2ooIuZ-wgoTkgpeTWNvs0_RVoNnl-pPU.cache"
+			],
+			[
+				"shared",
+				"app\\views\\users\\shared\\_links.html.erb"
+			],
+			[
+				"sessions/new",
+				"app\\views\\users\\sessions\\new.html.erb"
+			],
+			[
+				"shared/links",
+				"app\\views\\drivers\\shared\\_links.html.erb"
+			],
+			[
+				"log-in",
+				"app\\assets\\stylesheets\\log-in.scss"
+			],
+			[
+				"application.js",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"application",
+				"app\\views\\layouts\\application.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

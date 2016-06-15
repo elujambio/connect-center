@@ -1,0 +1,11 @@
+html,
+body
+{
+	color:white; 
+	background-color:rgb(17,17,17);
+}
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
