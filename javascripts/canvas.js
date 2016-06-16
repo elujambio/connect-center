@@ -62,8 +62,6 @@ var w = c.width = window.innerWidth,
 ctx.fillStyle = '#222';
 ctx.fillRect( 0, 0, w, h );
 ctx.fillStyle = '#ccc';
-ctx.font = '50px Verdana';
-ctx.fillText( 'Calculating Nodes', w / 2 - ctx.measureText( 'Calculating Nodes' ).width / 2, h / 2 - 15 );
 
 window.setTimeout( init, 4 ); // to render the loading screen
 

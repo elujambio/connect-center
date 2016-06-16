@@ -1,124 +1,145 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Connect</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<link rel="stylesheet" type="text/css" href="stylesheets/canvas.css">
-	<link rel="stylesheet" href="stylesheets/welcome.css">
-	<meta charset="utf-8">
-</head>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<meta name="description" content="Call Center Boutique">
+<meta name="keywords" content="Call Center, Call Center Boutique, Servicio al Cliente, Cobranza y Recuperación, Ventas Consultivas, Medios Digitales, Soporte Técnico, Servicios Virtuales">
+<meta name="author" content="NUVA.ROCKS">
+<meta name="robots" content="all" />
+<meta name="googlebot" content="all" />
+
+<title>Connect Center</title>
+
+<link rel="apple-touch-icon" sizes="57x57" href="icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="icons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="icons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="icons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="icons/manifest.json">
+<link rel="mask-icon" href="icons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="icons/mstile-144x144.png">
+<meta name="msapplication-config" content="icons/browserconfig.xml">
+<meta name="theme-color" content="#212121">
+
+<link rel="stylesheet" href="stylesheets/normalize.css">
+<link rel="stylesheet" href="stylesheets/application.css">
+
+<script src="javascripts/jquery.js"></script>
+<script src="javascripts/application.js"></script>
+<script src="javascripts/gsap/TweenMax.min.js"></script>
+<script src="javascripts/gsap/TimelineMax.min.js"></script>
+
 <body>
-
-	<div contents="left">
-		<h2>connect center</h2>
+	<hr data-separator="1">
+	<hr data-separator="2">
+	<a href="" id="head-logo">	
+		<img src="images/logo_white.png" alt="Connect Center Logo">
+	</a>
+	<div id="menu">
+		<a href="">inicio</a>
+		<a href="">nosotros</a>
+		<a href="">servicios</a>
+		<a href="">contacto</a>
+		<a href="">bolsa de trabajo</a>
 	</div>
-	<div contents="main">
-		<div contents="landing">
-			<canvas id=c></canvas>
-			<h2 class="hidden-large">connect center</h2>
-			<h1>conecta <span class="pink">con</span> <span class="blue">tus</span> clientes</h1>
-			<p>Es el siglo XXII y necesitas conectar con tus clientes. Acerca a tu área de ventas y seral cliente por medio de nuestro Call Center Boutique.</p>
-			<a class="bottom" href>ver más<img src="images/down-arrow.svg" class="arrow"></a>
+	<div data-section="1" class="full-page">
+		<canvas id="c"></canvas>
+		<div class="content">
+			<h1>Conecta <span class="pink">con</span><br><span class="blue">tus</span> clientes</h1>
+			<p>Es el siglo XII, y necesitas conectar con tus clientes. Acerca tu área de ventas y servicio al cliente por medio de nuestro Call Center boutique.</p>
+			<h3>¿Quiénes somos?</h3>
+			<h3></h3>
 		</div>
-		<hr>
-		<div contents="boutique">
-			<h2>connect center</h2>
-			<p class="pink"><span>boutique services</span></p>
-			<div contents="text">
-				<img src="images/pink-hint-1.svg" class="pink-hint">
-				<p>Creamos soluciones personalizadas de atención al cliente para pequeñas y medianas empresas.</p>
-				<p>Con más de 240 estaciones de trabajo, 15 años de experiencia en el mercado, y el perfil profesional de nuestros consultores hacen que en el mercado. </p>
-			</div>
-			<h2 class="pink">consultoría</h2>
-			<div contents="list">
-				<div contents="item">
-					<img src="images/procesos.svg" class="pink">
-					<p>Procesos</p>
-				</div>
-				<div contents="item">
-					<img src="images/tecnologia.svg" class="pink">
-					<p>Diseñamos, definimos e implantamos procesos y procedimientos buscando siempre la satisfacción del cliente.</p>
-				</div>
-				<div contents="item">
-					<img src="images/tecnologia.svg" class="pink">
-					<p>Tecnología</p>
-				</div>
-				<div contents="item">
-					<img src="images/talento-y-formacion.svg" class="pink">
-					<p>Talento y formación</p>
-				</div>
-			</div>
-			<h2 class="blue">servicios</h2>
-			<div contents="list">
-				<div contents="item">
-					<img src="images/servicio-al-cliente.svg" class="blue">
-					<p>Servicio al cliente</p>
-				</div>
-				<div contents="item">
-					<img src="images/cobranza-y-recuperacion.svg" class="blue">
-					<p>Cobranza y recuperación</p>
-				</div>
-				<div contents="item">
-					<img src="images/ventas-consultivas.svg" class="blue">
-					<p>Ventas consultiva</p>
-				</div>
-				<div contents="item">
-					<img src="images/medios-digitales.svg" class="blue">
-					<p>Medios digitales</p>
-				</div>
-				<div contents="item">
-					<img src="images/soporte-tecnico.svg" class="blue">
-					<p>Soporte técnico</p>
-				</div>
-				<div contents="item">
-					<img src="images/servicios-virtuales.svg" class="blue">
-					<p>Servicios virtuales</p>
-				</div>
-			</div>
+		<div class="content view-more">
+			<p>Ver<br>más</p>
+			<img src="images/down-arrow.svg" alt="Continue scrolling">
 		</div>
-		<hr>
-		<div contents="contact">
-			<h2>clientes</h2>
-			<p class="sub">Somos una compañia con experiencia en lo que hacemos. Conoce a quienes ya trabajan y confían en nosotros. </p>
-			<div contents="clients">
-				<div contents="partner" class=""></div>
-				<div contents="partner" class=""></div>
-				<div contents="partner" class=""></div>
-				<div contents="partner" class=""></div>
-				<div contents="partner" class=""></div>
-				<div contents="partner" class=""></div>
-				<div contents="partner" class=""></div>
-				<div contents="partner" class=""></div>
-			</div>
-			<h2>déjanos un mensaje</h2>
-			<p class="gray">o llámanos y prueba de primera mano nuestro servicio.</p>
-			<p>tel: <a href="tel:018008907766">01 800 890 7766</a></p>
-			<p>correo: <a class="mail" href="mailto:atencion@connectcenter.mx">atencion@connectcenter.mx</a></p>
-			<div contents="form">
-				<form>
-					<input type="text" name="" placeholder="Nombre">
-					<input type="text" name="" placeholder="Empresa">
-					<input type="text" name="" placeholder="Teléfono">
-					<input type="text" name="" placeholder="Correo electrónico">
-					<textarea>Comentarios</textarea>
-					<button>Enviar</button>
-				</form>
-			</div>
-		</div>
-	</div>
-	<div contents="footer">
-		<div contents="cv">
-			<p>¿Estás interesado en trabajar con nosotros?</p>
-			<a href>Mándanos tu CV.</a>
-		</div>
-	</div>
-	<div contents="menu">
-		<a href>servicios</a>
-		<a href>consultoría</a>
-		<a href>contacto</a>
-		<a href>experiencia</a>
+		<hr class="section-separator">
 	</div>
 
+	<div data-section="2" class="full-page">
+		<div class="content">
+			<h2>quiénes somos</h2>
+			<div class="paragraph">
+				<img src="images/pink-hint-1.svg" alt="Pink Hint">
+				<p>Somos una sastrería de soluciones integrales de Contact Center, con estándares de industria, personal calificado y respaldo tecnológico. Tenemos experiencia directiva de más de 15 años en la industria de Centros de Contacto gestionando operaciones más de 1,000 estaciones. <br><br>La experiencia, exclusivida y elevado perfil de nuestros Ejecutivos de Atención nos diferencían de los centros de contacto comunes.</p>
+				<div class="buttons-container">
+					<div class="pink-outline circle-button" data-button="infrastructure	">ver<br>infraestructura</div>
+					<div class="blue-outline circle-button" data-button="directory">ver<br>directorio</div>
+				</div>
+			</div>
+		</div>
+	</div> 
+	<div data-slide="infrastructure" class="full-page offcanvas">
+		<div class="content">
+			<div class="title">
+				<div class="close-button">
+					<div></div>
+					<div></div>
+				</div>
+				<h2>infraestructura</h2>
+			</div>
+			<div class="paragraph">
+				<img src="images/pink-hint-1.svg" alt="Pink Hint">
+				<div class="full-width">
+					<h2>2 campus en la Ciudad de México</h2>
+					<p class="blue">Campus San Ángel</p>
+					<p class="blue">Campus Roma</p>
+					<h2>240 estaciones de trabajo</h2>
+					<div class="specifics">
+						<ul>
+							<li>Telefonía y Canales Digitales</li>
+							<li>PBX - Collab</li>
+							<li>PBX - Asterisk (outbount)</li>
+						</ul>
+						<ul>
+							<li>Equipos de Redes</li>
+							<li>Core de Red</li>
+							<li>Estaciones Cableadas CAT 5E</li>
+							<li>Servidor de Dominio</li>
+							<li>Firewall</li>
+							<li>Estación de Trabajo con Core i3 de 2 GHz o más con monitores de 19 pulgadas</li>
+						</ul>
+						<ul>
+							<li>Infraestructura</li>
+							<li>Redundancia - Interconexión entre los dos centros</li>
+							<li>Enlaces Telmex (voz y datos)</li>
+							<li>Enlaces de Troncales VOIP</li>
+							<li>Redundancia de Internet con diferentes Carriers</li>
+							<li>UPS y planta de energía</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div data-slide="directory" class="full-page offcanvas">
+		<div class="content">
+			<div class="title">
+				<div class="close-button">
+					<div></div>
+					<div></div>
+				</div>
+				<h2>directorio</h2>
+			</div>
+			<div class="paragraph">
+
+				<div class="full-width">
+				</div>
+			</div>
+		</div>
+	</div>	
 </body>
-</html>
-	<script type="text/javascript" src="javascripts/canvas.js"></script>
+
+<script src="javascripts/canvas.js"></script>
